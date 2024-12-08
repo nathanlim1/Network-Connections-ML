@@ -1,4 +1,4 @@
-# README: Detection of Malicious Network Connections via Machine Learning
+# Detection of Malicious Network Connections via Machine Learning
 
 ## Overview
 
