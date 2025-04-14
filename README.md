@@ -57,7 +57,3 @@ networkML.ipynb
   - Precision: 99.99%
   - Recall: 99.99%
   - F1-Score: 99.99%
-
----
-
-For any questions or issues, feel free to contact me!
